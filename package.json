@@ -1,0 +1,30 @@
+{
+    "name": "node-teamspeak-api",
+    "version": "0.0.1",
+    "description": "TeamSpeak ServerQuery APIs for Node.js",
+    "main": "lib/teamspeak.js",
+    "dependencies": {
+        "line-input-stream": "^1.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "serverquery",
+        "teamspeak",
+        "ts",
+        "chat",
+        "api",
+        "ts3"
+    ],
+    "author": "Peter Defebvre",
+    "repository": {
+        "type": "git",
+        "https://github.com/macpie/node-teamspeak-api"
+    },
+    "bugs": {
+        "url": "https://github.com/macpie/node-teamspeak-api/issues"
+    },
+    "license": "MIT"
+}
