@@ -21,7 +21,7 @@
     "author": "Peter Defebvre",
     "repository": {
         "type": "git",
-        "https://github.com/macpie/node-teamspeak-api"
+        "url": "https://github.com/macpie/node-teamspeak-api"
     },
     "bugs": {
         "url": "https://github.com/macpie/node-teamspeak-api/issues"
