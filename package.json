@@ -1,6 +1,6 @@
 {
     "name": "node-teamspeak-api",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "TeamSpeak ServerQuery APIs for Node.js",
     "main": "lib/teamspeak.js",
     "dependencies": {
